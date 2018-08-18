@@ -2,3 +2,8 @@ ID: live5
 _schema-version: '2.0'
 description: Live 5 - Github
 version: 0.0.1
+
+modules:
+ - name: html5_module
+   type: html5
+   path: html5_module
